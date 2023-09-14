@@ -4,8 +4,8 @@
   "description": "A Node.js RESTful API for EMS",
   "main": "index.js",
   "engines": {
-    "npm": ">=9.0.0",
-    "node": ">=18.0.0"
+    "npm": ">=7.0.0",
+    "node": ">=16.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
